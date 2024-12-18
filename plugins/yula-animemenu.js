@@ -195,7 +195,7 @@ let tags = {
                    title: global.info.namebot + `© 2024`,
                    body: 'Powered By Maximus',
                    thumbnailUrl: global.maximus ? global.maximus : thum,
-                   sourceUrl: pickRandom(["https://chat.whatsapp.com/LZCnnSQFPkF3C6zrDcH5n8","https://chat.whatsapp.com/EWxOwlaJXTsIhj706JsfmZ"]),
+                   sourceUrl: pickRandom(["https://chat.whatsapp.com/HSBZ7gAskXIJ71e8iXaLSY","https://chat.whatsapp.com/EWxOwlaJXTsIhj706JsfmZ"]),
                    mediaType: 1,
                    renderLargerThumbnail: true
                    },
