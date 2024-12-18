@@ -65,12 +65,12 @@ global.fb = '' // boleh taruh link fb kalian
 global.ig = '' // boleh taruh link ig kalian
 global.gcbot = 'https://chat.whatsapp.com/HSBZ7gAskXIJ71e8iXaLSY' // boleh taruh link group kalian
 global.qris = 'https://pomf2.lain.la/f/4azn3ib.jpg' // Wajib isi untuk pembayaran. isi dengan qris
-global.vn = 'hhttps://github.com/dasaraul/XMYULA-MD/raw/refs/heads/master/media/ROSE%CC%81%20&%20Bruno%20Mars%20-%20APT.%20(Official%20Music%20Video).mp3' // Allmenu Voice
+global.vn = 'https://github.com/XM4ZE/DATABASE/raw/master/wallpaper/KARA.mp3?raw=true' // Allmenu Voice
 
 
 
 /*=========== THUMBNAIL ===========*/
-global.thumvid = 'https://github.com/dasaraul/XMYULA-MD/raw/refs/heads/master/media/Espresso%20-%20Loving%20Yamada%20at%20Lv999%20%5BEdit-AMV%5D%20(+Free%20Project%20File).mp4' // Allmenu Video thumbnail
+global.thumvid = 'https://github.com/XM4ZE/DATABASE/raw/master/wallpaper/Vid_20240220_073653.mp4?raw=true' // Allmenu Video thumbnail
 global.welcome = '' // [OPSIONAL] isi dengan link thumbnail welcome kalian
 global.leave = '' // [OPSIONAL] isi dengan link thumbnail leave kalian
 global.maximus = '' // [OPSIONAL] isi dengan link thumbnail kalian. link ini akan muncul di semua menu dan taruh di tengah-tengah simbol itu
